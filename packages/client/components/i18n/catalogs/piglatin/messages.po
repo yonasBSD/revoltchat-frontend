@@ -14,27 +14,27 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
-#: components/i18n/dayjs.tsx:46
+#: components/i18n/dayjs.tsx:45
 msgid "[Yesterday at] LT"
 msgstr ""
 
 #. js-lingui-explicit-id
-#: components/i18n/dayjs.tsx:47
+#: components/i18n/dayjs.tsx:46
 msgid "[Today at] LT"
 msgstr ""
 
 #. js-lingui-explicit-id
-#: components/i18n/dayjs.tsx:48
+#: components/i18n/dayjs.tsx:47
 msgid "[Tomorrow at] LT"
 msgstr ""
 
 #. js-lingui-explicit-id
-#: components/i18n/dayjs.tsx:49
+#: components/i18n/dayjs.tsx:48
 msgid "[Last] dddd [at] LT"
 msgstr ""
 
 #. js-lingui-explicit-id
-#: components/i18n/dayjs.tsx:50
+#: components/i18n/dayjs.tsx:49
 msgid "dddd [at] LT"
 msgstr ""
 
@@ -233,11 +233,13 @@ msgstr ""
 msgid "1 person reacted"
 msgstr "1 ersonpay eactedpay"
 
-#: components/app/interface/settings/user/Language.tsx:195
+#: components/app/interface/settings/user/Language.tsx:189
+#: components/app/interface/settings/user/Language.tsx:205
 msgid "12 hours"
 msgstr ""
 
-#: components/app/interface/settings/user/Language.tsx:187
+#: components/app/interface/settings/user/Language.tsx:189
+#: components/app/interface/settings/user/Language.tsx:197
 msgid "24 hours"
 msgstr ""
 
@@ -339,7 +341,8 @@ msgstr ""
 msgid "Already friends with this user."
 msgstr "Alreadyway iendsfray ithway isthay userway."
 
-#: components/app/interface/settings/user/Language.tsx:154
+#: components/app/interface/settings/user/Language.tsx:143
+#: components/app/interface/settings/user/Language.tsx:163
 msgid "American (MM/DD/YYYY)"
 msgstr ""
 
@@ -469,7 +472,7 @@ msgstr ""
 msgid "Browser Noise Supression"
 msgstr ""
 
-#: components/app/interface/settings/user/Feedback.tsx:75
+#: components/app/interface/settings/user/Feedback.tsx:88
 msgid "Bug Tracker"
 msgstr "Ugbay rackertay"
 
@@ -717,7 +720,7 @@ msgstr "Ontinuecay"
 msgid "Continue to app"
 msgstr ""
 
-#: components/app/interface/settings/user/Language.tsx:251
+#: components/app/interface/settings/user/Language.tsx:261
 msgid "Contribute a language"
 msgstr ""
 
@@ -1217,7 +1220,7 @@ msgid "Failed to verify!"
 msgstr "Ailedfay otay erifyvay!"
 
 #: components/app/interface/settings/UserSettings.tsx:181
-#: components/app/interface/settings/user/Feedback.tsx:62
+#: components/app/interface/settings/user/Feedback.tsx:75
 msgid "Feedback"
 msgstr "Eedbackfay"
 
@@ -1311,6 +1314,7 @@ msgid "Go to account settings to edit your username"
 msgstr ""
 
 #: src/interface/Home.tsx:155
+#: components/app/interface/settings/user/Feedback.tsx:106
 msgid "Go to the Stoat Lounge"
 msgstr ""
 
@@ -1350,7 +1354,7 @@ msgstr ""
 msgid "Hello!"
 msgstr "Ellohay!"
 
-#: components/app/interface/settings/user/Language.tsx:248
+#: components/app/interface/settings/user/Language.tsx:258
 msgid "Help contribute to an existing or new language"
 msgstr ""
 
@@ -1443,7 +1447,8 @@ msgstr ""
 msgid "irrelevant joke badge 2"
 msgstr ""
 
-#: components/app/interface/settings/user/Language.tsx:162
+#: components/app/interface/settings/user/Language.tsx:145
+#: components/app/interface/settings/user/Language.tsx:171
 msgid "ISO Standard (YYYY-MM-DD)"
 msgstr ""
 
@@ -1461,7 +1466,7 @@ msgstr ""
 #~ msgstr ""
 
 #: src/interface/Home.tsx:176
-#: components/app/interface/settings/user/Feedback.tsx:91
+#: components/app/interface/settings/user/Feedback.tsx:125
 msgid "Join the Stoat Lounge"
 msgstr ""
 
@@ -2228,8 +2233,8 @@ msgid "Review policy changes"
 msgstr ""
 
 #: components/app/interface/settings/user/Feedback.tsx:34
-msgid "Roadmap"
-msgstr ""
+#~ msgid "Roadmap"
+#~ msgstr ""
 
 #: components/modal/modals/CreateRole.tsx:58
 #: components/app/interface/settings/server/roles/ServerRoleEditor.tsx:86
@@ -2279,8 +2284,8 @@ msgid "Search for users..."
 msgstr ""
 
 #: components/app/interface/settings/user/Feedback.tsx:32
-msgid "See what we're currently working on."
-msgstr ""
+#~ msgid "See what we're currently working on."
+#~ msgstr ""
 
 #: components/app/interface/settings/user/voice/VoiceInputOptions.tsx:52
 msgid "Select audio input"
@@ -2505,11 +2510,11 @@ msgstr ""
 msgid "Stoat is one of the best ways to stay connected with your friends and community, anywhere, anytime."
 msgstr ""
 
-#: components/app/interface/settings/user/Feedback.tsx:49
+#: components/app/interface/settings/user/Feedback.tsx:62
 msgid "Submit feature suggestion"
 msgstr "Ubmitsay eaturefay uggestionsay"
 
-#: components/app/interface/settings/user/Feedback.tsx:60
+#: components/app/interface/settings/user/Feedback.tsx:73
 msgid "Submit feedback"
 msgstr "Ubmitsay eedbackfay"
 
@@ -2521,7 +2526,7 @@ msgstr ""
 msgid "Subscriptions"
 msgstr ""
 
-#: components/app/interface/settings/user/Feedback.tsx:46
+#: components/app/interface/settings/user/Feedback.tsx:59
 msgid "Suggest new Stoat features on GitHub discussions."
 msgstr ""
 
@@ -2671,7 +2676,8 @@ msgstr ""
 msgid "Tonal Spot"
 msgstr ""
 
-#: components/app/interface/settings/user/Language.tsx:146
+#: components/app/interface/settings/user/Language.tsx:141
+#: components/app/interface/settings/user/Language.tsx:155
 msgid "Traditional (DD/MM/YYYY)"
 msgstr ""
 
@@ -2819,7 +2825,7 @@ msgstr "Ideovay"
 msgid "View Channel"
 msgstr "Iewvay Annelchay"
 
-#: components/app/interface/settings/user/Feedback.tsx:73
+#: components/app/interface/settings/user/Feedback.tsx:86
 msgid "View currently active bug reports here."
 msgstr "Iewvay urrentlycay activeyay ugbay eportsray erehay."
 
@@ -2945,7 +2951,8 @@ msgstr "Ouyay ancay e-openray ityay aterlay utbay ityay illway isappearday onyay
 
 #: src/interface/Home.tsx:148
 #: src/interface/Home.tsx:169
-#: components/app/interface/settings/user/Feedback.tsx:85
+#: components/app/interface/settings/user/Feedback.tsx:99
+#: components/app/interface/settings/user/Feedback.tsx:118
 msgid "You can report issues and discuss improvements with us directly here."
 msgstr "Ouyay ancay eportray issuesyay andyay iscussday improvementsyay ithway usyay irectlyday erehay."
 
