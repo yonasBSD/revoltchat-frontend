@@ -295,7 +295,7 @@ msgstr ""
 msgid "Add new members to the group"
 msgstr ""
 
-#: src/interface/navigation/servers/UserMenu.tsx:214
+#: src/interface/navigation/servers/UserMenu.tsx:223
 msgid "Add status text"
 msgstr ""
 
@@ -390,7 +390,7 @@ msgstr "Berikan Peranan"
 msgid "Authenticator App"
 msgstr "Aplikasi pengesah"
 
-#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:148
+#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:157
 msgid "Avatar"
 msgstr "Avatar"
 
@@ -440,7 +440,7 @@ msgstr ""
 msgid "Ban User"
 msgstr ""
 
-#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:154
+#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:163
 msgid "Banner"
 msgstr ""
 
@@ -613,7 +613,7 @@ msgstr "Semak e-mel anda!"
 msgid "Choose username"
 msgstr ""
 
-#: src/interface/navigation/servers/UserMenu.tsx:231
+#: src/interface/navigation/servers/UserMenu.tsx:242
 msgid "Clear status"
 msgstr "Kosongkan status"
 
@@ -770,7 +770,7 @@ msgstr "Salin ID server"
 msgid "Copy text"
 msgstr "Salin teks"
 
-#: src/interface/navigation/servers/UserMenu.tsx:237
+#: src/interface/navigation/servers/UserMenu.tsx:248
 #: components/app/menus/UserContextMenu.tsx:405
 msgid "Copy user ID"
 msgstr "Salin ID pengguna"
@@ -1035,11 +1035,11 @@ msgstr ""
 msgid "Display & Text"
 msgstr ""
 
-#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:162
+#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:171
 msgid "Display Name"
 msgstr ""
 
-#: src/interface/navigation/servers/UserMenu.tsx:179
+#: src/interface/navigation/servers/UserMenu.tsx:188
 msgid "Do Not Disturb"
 msgstr "Jangan Ganggu"
 
@@ -1232,7 +1232,7 @@ msgstr "Cari komuniti berdasarkan hobi atau minat anda."
 msgid "Find your com<0/>munity,<1/>connect with the world."
 msgstr ""
 
-#: src/interface/navigation/servers/UserMenu.tsx:157
+#: src/interface/navigation/servers/UserMenu.tsx:166
 #: src/interface/navigation/channels/HomeSidebar.tsx:284
 #: src/interface/channels/text/MemberSidebar.tsx:385
 #: components/ui/components/features/profiles/ProfileStatus.tsx:27
@@ -1309,7 +1309,7 @@ msgstr ""
 msgid "Go back to login"
 msgstr "Kembali ke log masuk"
 
-#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:170
+#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:179
 msgid "Go to account settings to edit your username"
 msgstr ""
 
@@ -1384,7 +1384,7 @@ msgstr "Saya mengesahkan bahawa saya berumur sekurang-kurangnya 18 tahun."
 msgid "I understand the consequences"
 msgstr ""
 
-#: src/interface/navigation/servers/UserMenu.tsx:146
+#: src/interface/navigation/servers/UserMenu.tsx:155
 #: src/interface/navigation/channels/HomeSidebar.tsx:286
 #: src/interface/channels/text/MemberSidebar.tsx:387
 #: components/ui/components/features/profiles/ProfileStatus.tsx:29
@@ -1411,7 +1411,7 @@ msgstr ""
 msgid "Interface Font"
 msgstr ""
 
-#: src/interface/navigation/servers/UserMenu.tsx:200
+#: src/interface/navigation/servers/UserMenu.tsx:209
 msgid "Invisible"
 msgstr "Tak terlihat"
 
@@ -1920,14 +1920,14 @@ msgid "One of the first 1000 users!"
 msgstr ""
 
 #: src/interface/Friends.tsx:147
-#: src/interface/navigation/servers/UserMenu.tsx:136
+#: src/interface/navigation/servers/UserMenu.tsx:145
 #: src/interface/navigation/channels/HomeSidebar.tsx:280
 #: src/interface/channels/text/MemberSidebar.tsx:381
 #: components/ui/components/features/profiles/ProfileStatus.tsx:23
 msgid "Online"
 msgstr "Dalam Talian"
 
-#: src/interface/navigation/servers/UserMenu.tsx:162
+#: src/interface/navigation/servers/UserMenu.tsx:171
 msgid "Only mentions will notify you"
 msgstr ""
 
@@ -2040,7 +2040,7 @@ msgstr ""
 msgid "Profile"
 msgstr "Profil"
 
-#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:179
+#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:188
 msgid "Profile Bio"
 msgstr ""
 
@@ -2248,7 +2248,7 @@ msgstr "Peranan"
 
 #: components/modal/modals/ServerIdentity.tsx:77
 #: components/modal/modals/CustomStatus.tsx:50
-#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:190
+#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:199
 #: components/app/interface/settings/server/Overview.tsx:162
 #: components/app/interface/settings/server/roles/ServerRoleEditor.tsx:189
 #: components/app/interface/settings/channel/Overview.tsx:110
@@ -2445,7 +2445,7 @@ msgstr ""
 msgid "someone@example.com"
 msgstr ""
 
-#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:184
+#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:193
 msgid "Something cool about me..."
 msgstr ""
 
@@ -2866,7 +2866,7 @@ msgstr ""
 msgid "Volume"
 msgstr ""
 
-#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:174
+#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:183
 msgid "Want to change username?"
 msgstr ""
 
@@ -3005,7 +3005,7 @@ msgstr ""
 msgid "You were logged out!"
 msgstr ""
 
-#: src/interface/navigation/servers/UserMenu.tsx:184
+#: src/interface/navigation/servers/UserMenu.tsx:193
 msgid "You will not receive any notifications"
 msgstr ""
 

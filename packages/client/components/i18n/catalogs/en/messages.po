@@ -295,7 +295,7 @@ msgstr "Add friends to group"
 msgid "Add new members to the group"
 msgstr "Add new members to the group"
 
-#: src/interface/navigation/servers/UserMenu.tsx:214
+#: src/interface/navigation/servers/UserMenu.tsx:223
 msgid "Add status text"
 msgstr "Add status text"
 
@@ -390,7 +390,7 @@ msgstr "Assign Roles"
 msgid "Authenticator App"
 msgstr "Authenticator App"
 
-#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:148
+#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:157
 msgid "Avatar"
 msgstr "Avatar"
 
@@ -440,7 +440,7 @@ msgstr "Ban user"
 msgid "Ban User"
 msgstr "Ban User"
 
-#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:154
+#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:163
 msgid "Banner"
 msgstr "Banner"
 
@@ -613,7 +613,7 @@ msgstr "Check your mail!"
 msgid "Choose username"
 msgstr "Choose username"
 
-#: src/interface/navigation/servers/UserMenu.tsx:231
+#: src/interface/navigation/servers/UserMenu.tsx:242
 msgid "Clear status"
 msgstr "Clear status"
 
@@ -770,7 +770,7 @@ msgstr "Copy server ID"
 msgid "Copy text"
 msgstr "Copy text"
 
-#: src/interface/navigation/servers/UserMenu.tsx:237
+#: src/interface/navigation/servers/UserMenu.tsx:248
 #: components/app/menus/UserContextMenu.tsx:405
 msgid "Copy user ID"
 msgstr "Copy user ID"
@@ -1035,11 +1035,11 @@ msgstr "Discover Stoat"
 msgid "Display & Text"
 msgstr "Display & Text"
 
-#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:162
+#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:171
 msgid "Display Name"
 msgstr "Display Name"
 
-#: src/interface/navigation/servers/UserMenu.tsx:179
+#: src/interface/navigation/servers/UserMenu.tsx:188
 msgid "Do Not Disturb"
 msgstr "Do Not Disturb"
 
@@ -1232,7 +1232,7 @@ msgstr "Find a community based on your hobbies or interests."
 msgid "Find your com<0/>munity,<1/>connect with the world."
 msgstr "Find your com<0/>munity,<1/>connect with the world."
 
-#: src/interface/navigation/servers/UserMenu.tsx:157
+#: src/interface/navigation/servers/UserMenu.tsx:166
 #: src/interface/navigation/channels/HomeSidebar.tsx:284
 #: src/interface/channels/text/MemberSidebar.tsx:385
 #: components/ui/components/features/profiles/ProfileStatus.tsx:27
@@ -1309,7 +1309,7 @@ msgstr "Give us some detail"
 msgid "Go back to login"
 msgstr "Go back to login"
 
-#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:170
+#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:179
 msgid "Go to account settings to edit your username"
 msgstr "Go to account settings to edit your username"
 
@@ -1384,7 +1384,7 @@ msgstr "I confirm that I am at least 18 years old."
 msgid "I understand the consequences"
 msgstr "I understand the consequences"
 
-#: src/interface/navigation/servers/UserMenu.tsx:146
+#: src/interface/navigation/servers/UserMenu.tsx:155
 #: src/interface/navigation/channels/HomeSidebar.tsx:286
 #: src/interface/channels/text/MemberSidebar.tsx:387
 #: components/ui/components/features/profiles/ProfileStatus.tsx:29
@@ -1411,7 +1411,7 @@ msgstr "Instead of closing, Stoat will hide in your tray."
 msgid "Interface Font"
 msgstr "Interface Font"
 
-#: src/interface/navigation/servers/UserMenu.tsx:200
+#: src/interface/navigation/servers/UserMenu.tsx:209
 msgid "Invisible"
 msgstr "Invisible"
 
@@ -1920,14 +1920,14 @@ msgid "One of the first 1000 users!"
 msgstr "One of the first 1000 users!"
 
 #: src/interface/Friends.tsx:147
-#: src/interface/navigation/servers/UserMenu.tsx:136
+#: src/interface/navigation/servers/UserMenu.tsx:145
 #: src/interface/navigation/channels/HomeSidebar.tsx:280
 #: src/interface/channels/text/MemberSidebar.tsx:381
 #: components/ui/components/features/profiles/ProfileStatus.tsx:23
 msgid "Online"
 msgstr "Online"
 
-#: src/interface/navigation/servers/UserMenu.tsx:162
+#: src/interface/navigation/servers/UserMenu.tsx:171
 msgid "Only mentions will notify you"
 msgstr "Only mentions will notify you"
 
@@ -2040,7 +2040,7 @@ msgstr "Private Channel"
 msgid "Profile"
 msgstr "Profile"
 
-#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:179
+#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:188
 msgid "Profile Bio"
 msgstr "Profile Bio"
 
@@ -2248,7 +2248,7 @@ msgstr "Roles"
 
 #: components/modal/modals/ServerIdentity.tsx:77
 #: components/modal/modals/CustomStatus.tsx:50
-#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:190
+#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:199
 #: components/app/interface/settings/server/Overview.tsx:162
 #: components/app/interface/settings/server/roles/ServerRoleEditor.tsx:189
 #: components/app/interface/settings/channel/Overview.tsx:110
@@ -2445,7 +2445,7 @@ msgstr "Silent"
 msgid "someone@example.com"
 msgstr "someone@example.com"
 
-#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:184
+#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:193
 msgid "Something cool about me..."
 msgstr "Something cool about me..."
 
@@ -2866,7 +2866,7 @@ msgstr "Voice Processing"
 msgid "Volume"
 msgstr "Volume"
 
-#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:174
+#: components/app/interface/settings/user/profile/UserProfileEditor.tsx:183
 msgid "Want to change username?"
 msgstr "Want to change username?"
 
@@ -3005,7 +3005,7 @@ msgstr "You muted this user."
 msgid "You were logged out!"
 msgstr "You were logged out!"
 
-#: src/interface/navigation/servers/UserMenu.tsx:184
+#: src/interface/navigation/servers/UserMenu.tsx:193
 msgid "You will not receive any notifications"
 msgstr "You will not receive any notifications"
 
