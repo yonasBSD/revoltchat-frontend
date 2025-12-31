@@ -601,7 +601,7 @@ msgstr "Channel Settings"
 msgid "Channels"
 msgstr "Channels"
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:350
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:380
 msgid "Chat Input"
 msgstr "Chat Input"
 
@@ -908,7 +908,7 @@ msgstr "Custom window frame"
 msgid "Customisation"
 msgstr "Customisation"
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:68
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:72
 msgid "Dark"
 msgstr "Dark"
 
@@ -1031,7 +1031,7 @@ msgstr "Discord RPC"
 msgid "Discover Stoat"
 msgstr "Discover Stoat"
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:255
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:285
 msgid "Display & Text"
 msgstr "Display & Text"
 
@@ -1140,7 +1140,7 @@ msgstr "Email"
 msgid "Emoji Name"
 msgstr "Emoji Name"
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:366
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:396
 msgid "Emoji Pack (affects your messages only)"
 msgstr "Emoji Pack (affects your messages only)"
 
@@ -1160,7 +1160,7 @@ msgstr "Enable authenticator app"
 msgid "Enable Desktop Notifications"
 msgstr "Enable Desktop Notifications"
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:259
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:289
 msgid "Enable transparency glass/blur effects (slow on older machines)"
 msgstr "Enable transparency glass/blur effects (slow on older machines)"
 
@@ -1269,7 +1269,7 @@ msgstr "For 8 hours"
 msgid "Friends"
 msgstr "Friends"
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:247
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:277
 msgid "Fruit Salad"
 msgstr "Fruit Salad"
 
@@ -1367,7 +1367,7 @@ msgstr "Helped translate Stoat"
 msgid "Here is your new invite code: <0>{0}</0>"
 msgstr "Here is your new invite code: <0>{0}</0>"
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:172
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:202
 msgid "High Contrast"
 msgstr "High Contrast"
 
@@ -1407,7 +1407,7 @@ msgstr "Impersonation"
 msgid "Instead of closing, Stoat will hide in your tray."
 msgstr "Instead of closing, Stoat will hide in your tray."
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:319
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:349
 msgid "Interface Font"
 msgstr "Interface Font"
 
@@ -1560,7 +1560,7 @@ msgstr "Let Stoat use its own custom titlebar."
 msgid "Let us know how we can improve our app by giving us feedback."
 msgstr "Let us know how we can improve our app by giving us feedback."
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:61
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:65
 msgid "Light"
 msgstr "Light"
 
@@ -1707,7 +1707,7 @@ msgstr "Message"
 msgid "Message {0}"
 msgstr "Message {0}"
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:307
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:337
 msgid "Message Group Spacing"
 msgstr "Message Group Spacing"
 
@@ -1723,7 +1723,7 @@ msgstr "Message Received"
 msgid "Message Sent"
 msgstr "Message Sent"
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:294
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:324
 msgid "Message Size"
 msgstr "Message Size"
 
@@ -1744,15 +1744,15 @@ msgstr "Minimise to Tray"
 msgid "Missing permission"
 msgstr "Missing permission"
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:183
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:213
 msgid "Monochrome"
 msgstr "Monochrome"
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:334
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:364
 msgid "Monospace Font"
 msgstr "Monospace Font"
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:164
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:194
 msgid "More Contrast"
 msgstr "More Contrast"
 
@@ -1817,7 +1817,7 @@ msgstr "My Bots"
 msgid "Name"
 msgstr "Name"
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:191
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:221
 msgid "Neutral"
 msgstr "Neutral"
 
@@ -1861,7 +1861,7 @@ msgstr "Nobody here right now!"
 msgid "None"
 msgstr "None"
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:156
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:186
 msgid "Normal"
 msgstr "Normal"
 
@@ -2103,7 +2103,7 @@ msgstr "Recovery Code"
 msgid "Recovery Codes"
 msgstr "Recovery Codes"
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:148
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:178
 msgid "Reduced"
 msgstr "Reduced"
 
@@ -2425,7 +2425,7 @@ msgstr "Share camera or screen in voice call"
 msgid "Show corrections and suggestions as you type."
 msgstr "Show corrections and suggestions as you type."
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:362
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:392
 msgid "Show send message button"
 msgstr "Show send message button"
 
@@ -2550,7 +2550,7 @@ msgstr "Sync your chosen theme, colours, and any custom CSS."
 msgid "Sync your currently chosen language."
 msgstr "Sync your currently chosen language."
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:75
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:79
 msgid "System"
 msgstr "System"
 
@@ -2672,7 +2672,7 @@ msgstr "Timeout Members"
 msgid "Toggle main sidebar"
 msgstr "Toggle main sidebar"
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:199
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:229
 msgid "Tonal Spot"
 msgstr "Tonal Spot"
 

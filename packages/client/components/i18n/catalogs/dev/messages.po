@@ -601,7 +601,7 @@ msgstr ""
 msgid "Channels"
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:350
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:380
 msgid "Chat Input"
 msgstr ""
 
@@ -908,7 +908,7 @@ msgstr ""
 msgid "Customisation"
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:68
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:72
 msgid "Dark"
 msgstr ""
 
@@ -1031,7 +1031,7 @@ msgstr ""
 msgid "Discover Stoat"
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:255
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:285
 msgid "Display & Text"
 msgstr ""
 
@@ -1140,7 +1140,7 @@ msgstr ""
 msgid "Emoji Name"
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:366
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:396
 msgid "Emoji Pack (affects your messages only)"
 msgstr ""
 
@@ -1160,7 +1160,7 @@ msgstr ""
 msgid "Enable Desktop Notifications"
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:259
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:289
 msgid "Enable transparency glass/blur effects (slow on older machines)"
 msgstr ""
 
@@ -1269,7 +1269,7 @@ msgstr ""
 msgid "Friends"
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:247
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:277
 msgid "Fruit Salad"
 msgstr ""
 
@@ -1367,7 +1367,7 @@ msgstr ""
 msgid "Here is your new invite code: <0>{0}</0>"
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:172
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:202
 msgid "High Contrast"
 msgstr ""
 
@@ -1407,7 +1407,7 @@ msgstr ""
 msgid "Instead of closing, Stoat will hide in your tray."
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:319
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:349
 msgid "Interface Font"
 msgstr ""
 
@@ -1560,7 +1560,7 @@ msgstr ""
 msgid "Let us know how we can improve our app by giving us feedback."
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:61
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:65
 msgid "Light"
 msgstr ""
 
@@ -1707,7 +1707,7 @@ msgstr ""
 msgid "Message {0}"
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:307
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:337
 msgid "Message Group Spacing"
 msgstr ""
 
@@ -1723,7 +1723,7 @@ msgstr ""
 msgid "Message Sent"
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:294
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:324
 msgid "Message Size"
 msgstr ""
 
@@ -1744,15 +1744,15 @@ msgstr ""
 msgid "Missing permission"
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:183
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:213
 msgid "Monochrome"
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:334
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:364
 msgid "Monospace Font"
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:164
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:194
 msgid "More Contrast"
 msgstr ""
 
@@ -1817,7 +1817,7 @@ msgstr ""
 msgid "Name"
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:191
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:221
 msgid "Neutral"
 msgstr ""
 
@@ -1861,7 +1861,7 @@ msgstr ""
 msgid "None"
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:156
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:186
 msgid "Normal"
 msgstr ""
 
@@ -2103,7 +2103,7 @@ msgstr ""
 msgid "Recovery Codes"
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:148
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:178
 msgid "Reduced"
 msgstr ""
 
@@ -2425,7 +2425,7 @@ msgstr ""
 msgid "Show corrections and suggestions as you type."
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:362
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:392
 msgid "Show send message button"
 msgstr ""
 
@@ -2550,7 +2550,7 @@ msgstr ""
 msgid "Sync your currently chosen language."
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:75
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:79
 msgid "System"
 msgstr ""
 
@@ -2672,7 +2672,7 @@ msgstr ""
 msgid "Toggle main sidebar"
 msgstr ""
 
-#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:199
+#: components/app/interface/settings/user/appearance/AppearanceMenu.tsx:229
 msgid "Tonal Spot"
 msgstr ""
 
