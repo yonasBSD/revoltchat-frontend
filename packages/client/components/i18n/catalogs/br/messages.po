@@ -636,7 +636,7 @@ msgstr "Arventennoù Arval"
 #: components/modal/modals/UserProfileRoles.tsx:30
 #: components/modal/modals/UserProfileMutualGroups.tsx:23
 #: components/modal/modals/UserProfileMutualFriends.tsx:21
-#: components/modal/modals/ServerInfo.tsx:51
+#: components/modal/modals/ServerInfo.tsx:63
 #: components/modal/modals/PolicyChange.tsx:42
 #: components/modal/modals/LinkWarning.tsx:46
 #: components/modal/modals/JoinServer.tsx:58
@@ -1100,7 +1100,7 @@ msgstr ""
 msgid "Edit identity"
 msgstr "Kemmañ ho pivelezh"
 
-#: components/modal/modals/ServerInfo.tsx:33
+#: components/modal/modals/ServerInfo.tsx:45
 msgid "Edit Identity"
 msgstr ""
 
@@ -1882,7 +1882,7 @@ msgstr "Lazhet"
 msgid "Official Communication"
 msgstr "Darempred ofisiel"
 
-#: src/interface/navigation/channels/ServerSidebar.tsx:291
+#: src/interface/navigation/channels/ServerSidebar.tsx:306
 msgid "Official Server"
 msgstr "Servijer Ofisiel"
 
@@ -2169,7 +2169,7 @@ msgstr "Respont"
 msgid "Replying to"
 msgstr "O respont da"
 
-#: components/modal/modals/ServerInfo.tsx:42
+#: components/modal/modals/ServerInfo.tsx:54
 #: components/modal/modals/ReportContent.tsx:151
 msgid "Report"
 msgstr ""
@@ -2400,7 +2400,7 @@ msgstr "Estezioù"
 msgid "Set your status"
 msgstr ""
 
-#: components/modal/modals/ServerInfo.tsx:23
+#: components/modal/modals/ServerInfo.tsx:33
 msgid "Settings"
 msgstr "Arventennoù"
 
@@ -2454,7 +2454,7 @@ msgstr ""
 msgid "Something is wrong with your request, {0}."
 msgstr ""
 
-#: components/i18n/errors.ts:139
+#: components/i18n/errors.ts:144
 msgid "Something went wrong! Try again later."
 msgstr ""
 
@@ -2804,7 +2804,7 @@ msgstr ""
 msgid "Using default speaker"
 msgstr ""
 
-#: src/interface/navigation/channels/ServerSidebar.tsx:291
+#: src/interface/navigation/channels/ServerSidebar.tsx:306
 msgid "Verified"
 msgstr ""
 
@@ -2956,6 +2956,20 @@ msgstr "Diwezhatoc'h a c'hallit digeriñ ar c'hemennadoù-se en-dro, met an daou
 msgid "You can report issues and discuss improvements with us directly here."
 msgstr "Amañ a c'hallit aroueziañ ar gudennoù ha kaozeal diwar-benn gwellaenn ganeomp."
 
+#. placeholder {0}: err.max
+#: components/i18n/errors.ts:97
+msgid "You can't be in more than {0} servers, please leave one and try again."
+msgstr ""
+
+#. placeholder {0}: err.max
+#: components/i18n/errors.ts:95
+msgid "You can't have more than {0} channels on this server."
+msgstr ""
+
+#: components/i18n/errors.ts:93
+msgid "You can't have more than {err.max} emojis on this server."
+msgstr ""
+
 #: components/i18n/errors.ts:44
 msgid "You cannot give yourself missing permissions."
 msgstr ""
@@ -3043,6 +3057,11 @@ msgstr ""
 msgid "You've reached your personal bot limit."
 msgstr ""
 
+#. placeholder {0}: err.max
+#: components/i18n/errors.ts:99
+msgid "You've sent too many friend requests, the maximum is {0}"
+msgstr ""
+
 #: components/app/interface/settings/user/Account.tsx:313
 msgid "Your account and all of your data (including your messages and friends list) will be queued for deletion. A confirmation email will be sent - you can cancel this within 7 days by contacting support."
 msgstr ""
@@ -3053,6 +3072,10 @@ msgstr "ho kont en deus gwiriet !"
 
 #: components/i18n/errors.ts:56
 msgid "Your discriminator change has been ratelimited, please try again later."
+msgstr ""
+
+#: components/i18n/errors.ts:101
+msgid "Your message is too long, please remove some characters and try again."
 msgstr ""
 
 #: components/modal/modals/MFARecovery.tsx:61

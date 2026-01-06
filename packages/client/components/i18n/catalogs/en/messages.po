@@ -636,7 +636,7 @@ msgstr "Client Settings"
 #: components/modal/modals/UserProfileRoles.tsx:30
 #: components/modal/modals/UserProfileMutualGroups.tsx:23
 #: components/modal/modals/UserProfileMutualFriends.tsx:21
-#: components/modal/modals/ServerInfo.tsx:51
+#: components/modal/modals/ServerInfo.tsx:63
 #: components/modal/modals/PolicyChange.tsx:42
 #: components/modal/modals/LinkWarning.tsx:46
 #: components/modal/modals/JoinServer.tsx:58
@@ -1100,7 +1100,7 @@ msgstr "Edit group name and description"
 msgid "Edit identity"
 msgstr "Edit identity"
 
-#: components/modal/modals/ServerInfo.tsx:33
+#: components/modal/modals/ServerInfo.tsx:45
 msgid "Edit Identity"
 msgstr "Edit Identity"
 
@@ -1882,7 +1882,7 @@ msgstr "Off"
 msgid "Official Communication"
 msgstr "Official Communication"
 
-#: src/interface/navigation/channels/ServerSidebar.tsx:291
+#: src/interface/navigation/channels/ServerSidebar.tsx:306
 msgid "Official Server"
 msgstr "Official Server"
 
@@ -2169,7 +2169,7 @@ msgstr "Reply"
 msgid "Replying to"
 msgstr "Replying to"
 
-#: components/modal/modals/ServerInfo.tsx:42
+#: components/modal/modals/ServerInfo.tsx:54
 #: components/modal/modals/ReportContent.tsx:151
 msgid "Report"
 msgstr "Report"
@@ -2400,7 +2400,7 @@ msgstr "Sessions"
 msgid "Set your status"
 msgstr "Set your status"
 
-#: components/modal/modals/ServerInfo.tsx:23
+#: components/modal/modals/ServerInfo.tsx:33
 msgid "Settings"
 msgstr "Settings"
 
@@ -2454,7 +2454,7 @@ msgstr "Something cool about me..."
 msgid "Something is wrong with your request, {0}."
 msgstr "Something is wrong with your request, {0}."
 
-#: components/i18n/errors.ts:139
+#: components/i18n/errors.ts:144
 msgid "Something went wrong! Try again later."
 msgstr "Something went wrong! Try again later."
 
@@ -2804,7 +2804,7 @@ msgstr "Using default microphone"
 msgid "Using default speaker"
 msgstr "Using default speaker"
 
-#: src/interface/navigation/channels/ServerSidebar.tsx:291
+#: src/interface/navigation/channels/ServerSidebar.tsx:306
 msgid "Verified"
 msgstr "Verified"
 
@@ -2956,6 +2956,20 @@ msgstr "You can re-open it later, but it will disappear on both sides."
 msgid "You can report issues and discuss improvements with us directly here."
 msgstr "You can report issues and discuss improvements with us directly here."
 
+#. placeholder {0}: err.max
+#: components/i18n/errors.ts:97
+msgid "You can't be in more than {0} servers, please leave one and try again."
+msgstr "You can't be in more than {0} servers, please leave one and try again."
+
+#. placeholder {0}: err.max
+#: components/i18n/errors.ts:95
+msgid "You can't have more than {0} channels on this server."
+msgstr "You can't have more than {0} channels on this server."
+
+#: components/i18n/errors.ts:93
+msgid "You can't have more than {err.max} emojis on this server."
+msgstr "You can't have more than {err.max} emojis on this server."
+
 #: components/i18n/errors.ts:44
 msgid "You cannot give yourself missing permissions."
 msgstr "You cannot give yourself missing permissions."
@@ -3043,6 +3057,11 @@ msgstr "You've been signed out of Stoat!"
 msgid "You've reached your personal bot limit."
 msgstr "You've reached your personal bot limit."
 
+#. placeholder {0}: err.max
+#: components/i18n/errors.ts:99
+msgid "You've sent too many friend requests, the maximum is {0}"
+msgstr "You've sent too many friend requests, the maximum is {0}"
+
 #: components/app/interface/settings/user/Account.tsx:313
 msgid "Your account and all of your data (including your messages and friends list) will be queued for deletion. A confirmation email will be sent - you can cancel this within 7 days by contacting support."
 msgstr "Your account and all of your data (including your messages and friends list) will be queued for deletion. A confirmation email will be sent - you can cancel this within 7 days by contacting support."
@@ -3054,6 +3073,10 @@ msgstr "Your account has been verified!"
 #: components/i18n/errors.ts:56
 msgid "Your discriminator change has been ratelimited, please try again later."
 msgstr "Your discriminator change has been ratelimited, please try again later."
+
+#: components/i18n/errors.ts:101
+msgid "Your message is too long, please remove some characters and try again."
+msgstr "Your message is too long, please remove some characters and try again."
 
 #: components/modal/modals/MFARecovery.tsx:61
 msgid "Your recovery codes"
