@@ -305,7 +305,7 @@ msgstr ""
 
 #: components/app/menus/UserContextMenu.tsx:401
 #: components/app/menus/ServerContextMenu.tsx:321
-#: components/app/menus/MessageContextMenu.tsx:255
+#: components/app/menus/MessageContextMenu.tsx:260
 #: components/app/menus/ChannelContextMenu.tsx:166
 msgid "Admin Panel"
 msgstr ""
@@ -333,7 +333,7 @@ msgstr "ᔑꖎꖎ ᒲᒷᓭᓭᔑ⊣ᒷᓭ"
 msgid "Allow members to change name and avatar per-message"
 msgstr ""
 
-#: components/app/interface/settings/user/bots/ViewBot.tsx:51
+#: components/app/interface/settings/user/bots/ViewBot.tsx:53
 msgid "Allow others to add your bot to their servers from Discover"
 msgstr ""
 
@@ -492,6 +492,7 @@ msgstr ""
 
 #: components/modal/modals/SignOutSessions.tsx:28
 #: components/modal/modals/ServerIdentity.tsx:75
+#: components/modal/modals/ResetBotToken.tsx:27
 #: components/modal/modals/ReportContent.tsx:149
 #: components/modal/modals/RenameSession.tsx:41
 #: components/modal/modals/Onboarding.tsx:42
@@ -736,16 +737,16 @@ msgstr ""
 msgid "Copy channel ID"
 msgstr "ᓵ𝙹!¡|| ᓵ⍑ᔑリリᒷꖎ ╎↸"
 
-#: components/app/interface/settings/user/bots/ViewBot.tsx:91
+#: components/app/interface/settings/user/bots/ViewBot.tsx:93
 msgid "Copy ID"
 msgstr "ᓵ𝙹!¡|| ╎↸"
 
-#: components/app/interface/settings/user/bots/ViewBot.tsx:84
+#: components/app/interface/settings/user/bots/ViewBot.tsx:86
 msgid "Copy Invite URL"
 msgstr ""
 
 #: components/app/menus/MessageContextMenu.tsx:139
-#: components/app/menus/MessageContextMenu.tsx:259
+#: components/app/menus/MessageContextMenu.tsx:264
 #: components/app/menus/ChannelContextMenu.tsx:170
 msgid "Copy link"
 msgstr "ᓵ𝙹!¡|| ꖎ╎リꖌ"
@@ -754,7 +755,7 @@ msgstr "ᓵ𝙹!¡|| ꖎ╎リꖌ"
 msgid "Copy Link"
 msgstr ""
 
-#: components/app/menus/MessageContextMenu.tsx:263
+#: components/app/menus/MessageContextMenu.tsx:268
 msgid "Copy message ID"
 msgstr "ᓵ𝙹!¡|| ᒲᒷᓭᓭᔑ⊣ᒷ ╎↸"
 
@@ -769,6 +770,10 @@ msgstr "ᓵ𝙹!¡|| ᓭᒷ∷⍊ᒷ∷ ╎↸"
 #: components/app/menus/MessageContextMenu.tsx:163
 msgid "Copy text"
 msgstr "ᓵ𝙹!¡|| ℸᒷ/ℸ"
+
+#: components/app/interface/settings/user/bots/ViewBot.tsx:100
+msgid "Copy Token"
+msgstr ""
 
 #: src/interface/navigation/servers/UserMenu.tsx:248
 #: components/app/menus/UserContextMenu.tsx:406
@@ -985,7 +990,7 @@ msgid "Delete Invite"
 msgstr ""
 
 #: components/modal/modals/DeleteMessage.tsx:26
-#: components/app/menus/MessageContextMenu.tsx:244
+#: components/app/menus/MessageContextMenu.tsx:249
 #: components/app/menus/DraftMessageContextMenu.tsx:63
 msgid "Delete message"
 msgstr "↸ᒷꖎᒷℸᒷ ᒲᒷᓭᓭᔑ⊣ᒷ"
@@ -1280,7 +1285,7 @@ msgstr "⎓∷╎ᒷリ↸ᓭ"
 msgid "Fruit Salad"
 msgstr ""
 
-#: components/app/interface/settings/user/bots/ViewBot.tsx:42
+#: components/app/interface/settings/user/bots/ViewBot.tsx:43
 msgid "Generate a new token if it gets lost or compromised"
 msgstr ""
 
@@ -1426,7 +1431,7 @@ msgstr "╎リ⍊╎ᓭ╎ʖꖎᒷ"
 msgid "Invite all of your friends, some cool bots, and throw a big party."
 msgstr "╎リ⍊╎ℸᒷ ᔑꖎꖎ 𝙹⎓ ||𝙹⚍∷ ⎓∷╎ᒷリ↸ᓭ, ᓭ𝙹ᒲᒷ ᓵ𝙹𝙹ꖎ ʖ𝙹ℸᓭ, ᔑリ↸ ℸ⍑∷𝙹∴ ᔑ ʖ╎⊣ !¡ᔑ∷ℸ||."
 
-#: components/app/interface/settings/user/bots/ViewBot.tsx:73
+#: components/app/interface/settings/user/bots/ViewBot.tsx:75
 msgid "Invite Bot"
 msgstr ""
 
@@ -1999,7 +2004,7 @@ msgstr "!¡ᒷ∷ᒲ╎ᓭᓭ╎𝙹リᓭ"
 msgid "Pick a username that you want people to be able to find you by. This can be changed later in your user settings."
 msgstr "!¡╎ᓵꖌ ᔑ ⚍ᓭᒷ∷リᔑᒲᒷ ℸ⍑ᔑℸ ||𝙹⚍ ∴ᔑリℸ !¡ᒷ𝙹!¡ꖎᒷ ℸ𝙹 ʖᒷ ᔑʖꖎᒷ ℸ𝙹 ⎓╎リ↸ ||𝙹⚍ ʖ||. ℸ⍑╎ᓭ ᓵᔑリ ʖᒷ ᓵ⍑ᔑリ⊣ᒷ↸ ꖎᔑℸᒷ∷ ╎リ ||𝙹⚍∷ ⚍ᓭᒷ∷ ᓭᒷℸℸ╎リ⊣ᓭ."
 
-#: components/app/menus/MessageContextMenu.tsx:190
+#: components/app/menus/MessageContextMenu.tsx:195
 msgid "Pin message"
 msgstr ""
 
@@ -2130,7 +2135,7 @@ msgstr "∷ᒷ⋮ᒷᓵℸ ⎓∷╎ᒷリ↸ ∷ᒷᑑ⚍ᒷᓭℸ"
 msgid "Relevance"
 msgstr "∷ᒷꖎᒷ⍊ᔑリᓵᒷ"
 
-#: components/app/menus/MessageContextMenu.tsx:230
+#: components/app/menus/MessageContextMenu.tsx:235
 msgid "Remove all reactions"
 msgstr ""
 
@@ -2150,7 +2155,7 @@ msgstr "∷ᒷᒲ𝙹⍊ᒷ ⎓∷╎ᒷリ↸"
 msgid "Remove other members' avatars"
 msgstr ""
 
-#: components/app/menus/MessageContextMenu.tsx:207
+#: components/app/menus/MessageContextMenu.tsx:212
 msgid "Remove reaction"
 msgstr ""
 
@@ -2181,7 +2186,7 @@ msgstr "∷ᒷ!¡ꖎ||╎リ⊣ ℸ𝙹"
 msgid "Report"
 msgstr "∷ᒷ!¡𝙹∷ℸ"
 
-#: components/app/menus/MessageContextMenu.tsx:249
+#: components/app/menus/MessageContextMenu.tsx:254
 msgid "Report message"
 msgstr "∷ᒷ!¡𝙹∷ℸ ᒲᒷᓭᓭᔑ⊣ᒷ"
 
@@ -2203,11 +2208,17 @@ msgid "Resend verification"
 msgstr "∷ᒷᓭᒷリ↸ ⍊ᒷ∷╎⎓╎ᓵᔑℸ╎𝙹リ"
 
 #: components/ui/components/utils/Form2.tsx:321
+#: components/modal/modals/ResetBotToken.tsx:29
 #: components/modal/modals/MFARecovery.tsx:64
 #: components/auth/src/flows/FlowReset.tsx:44
 #: components/auth/src/flows/FlowConfirmReset.tsx:43
 msgid "Reset"
 msgstr "∷ᒷᓭᒷℸ"
+
+#. placeholder {0}: props.bot.user!.username
+#: components/modal/modals/ResetBotToken.tsx:25
+msgid "Reset {0}'s token?"
+msgstr ""
 
 #: components/auth/src/flows/FlowReset.tsx:39
 #: components/auth/src/flows/FlowLogin.tsx:65
@@ -2219,7 +2230,7 @@ msgstr "∷ᒷᓭᒷℸ !¡ᔑᓭᓭ∴𝙹∷↸"
 msgid "Reset Recovery Codes"
 msgstr ""
 
-#: components/app/interface/settings/user/bots/ViewBot.tsx:47
+#: components/app/interface/settings/user/bots/ViewBot.tsx:49
 msgid "Reset Token"
 msgstr "∷ᒷᓭᒷℸ ℸ𝙹ꖌᒷリ"
 
@@ -2525,7 +2536,7 @@ msgstr "ᓭ⚍ʖᒲ╎ℸ ⎓ᒷᔑℸ⚍∷ᒷ ᓭ⚍⊣⊣ᒷᓭℸ╎𝙹リ"
 msgid "Submit feedback"
 msgstr "ᓭ⚍ʖᒲ╎ℸ ⎓ᒷᒷ↸ʖᔑᓵꖌ"
 
-#: components/app/interface/settings/user/bots/ViewBot.tsx:58
+#: components/app/interface/settings/user/bots/ViewBot.tsx:60
 msgid "Submit to Discover"
 msgstr ""
 
@@ -2675,6 +2686,10 @@ msgstr ""
 msgid "This username is not allowed."
 msgstr ""
 
+#: components/modal/modals/ResetBotToken.tsx:34
+msgid "This will invalidate the current token and stop any existing instances of the bot from running."
+msgstr ""
+
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsEditor.tsx:193
 msgid "Timeout Members"
 msgstr "ℸ╎ᒲᒷ𝙹⚍ℸ ᒲᒷᒲʖᒷ∷ᓭ"
@@ -2724,7 +2739,7 @@ msgstr ""
 msgid "Unmute Server"
 msgstr ""
 
-#: components/app/menus/MessageContextMenu.tsx:192
+#: components/app/menus/MessageContextMenu.tsx:197
 msgid "Unpin message"
 msgstr ""
 

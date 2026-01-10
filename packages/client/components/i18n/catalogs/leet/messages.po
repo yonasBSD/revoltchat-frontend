@@ -305,7 +305,7 @@ msgstr ""
 
 #: components/app/menus/UserContextMenu.tsx:401
 #: components/app/menus/ServerContextMenu.tsx:321
-#: components/app/menus/MessageContextMenu.tsx:255
+#: components/app/menus/MessageContextMenu.tsx:260
 #: components/app/menus/ChannelContextMenu.tsx:166
 msgid "Admin Panel"
 msgstr ""
@@ -333,7 +333,7 @@ msgstr "4LL M3554635"
 msgid "Allow members to change name and avatar per-message"
 msgstr ""
 
-#: components/app/interface/settings/user/bots/ViewBot.tsx:51
+#: components/app/interface/settings/user/bots/ViewBot.tsx:53
 msgid "Allow others to add your bot to their servers from Discover"
 msgstr ""
 
@@ -492,6 +492,7 @@ msgstr ""
 
 #: components/modal/modals/SignOutSessions.tsx:28
 #: components/modal/modals/ServerIdentity.tsx:75
+#: components/modal/modals/ResetBotToken.tsx:27
 #: components/modal/modals/ReportContent.tsx:149
 #: components/modal/modals/RenameSession.tsx:41
 #: components/modal/modals/Onboarding.tsx:42
@@ -736,16 +737,16 @@ msgstr ""
 msgid "Copy channel ID"
 msgstr "C0PY CH4NN3L 1D"
 
-#: components/app/interface/settings/user/bots/ViewBot.tsx:91
+#: components/app/interface/settings/user/bots/ViewBot.tsx:93
 msgid "Copy ID"
 msgstr "C0PY 1D"
 
-#: components/app/interface/settings/user/bots/ViewBot.tsx:84
+#: components/app/interface/settings/user/bots/ViewBot.tsx:86
 msgid "Copy Invite URL"
 msgstr ""
 
 #: components/app/menus/MessageContextMenu.tsx:139
-#: components/app/menus/MessageContextMenu.tsx:259
+#: components/app/menus/MessageContextMenu.tsx:264
 #: components/app/menus/ChannelContextMenu.tsx:170
 msgid "Copy link"
 msgstr "C0PY L1NK"
@@ -754,7 +755,7 @@ msgstr "C0PY L1NK"
 msgid "Copy Link"
 msgstr ""
 
-#: components/app/menus/MessageContextMenu.tsx:263
+#: components/app/menus/MessageContextMenu.tsx:268
 msgid "Copy message ID"
 msgstr "C0PY M355463 1D"
 
@@ -769,6 +770,10 @@ msgstr "C0PY 532V32 1D"
 #: components/app/menus/MessageContextMenu.tsx:163
 msgid "Copy text"
 msgstr "C0PY 73X7"
+
+#: components/app/interface/settings/user/bots/ViewBot.tsx:100
+msgid "Copy Token"
+msgstr ""
 
 #: src/interface/navigation/servers/UserMenu.tsx:248
 #: components/app/menus/UserContextMenu.tsx:406
@@ -985,7 +990,7 @@ msgid "Delete Invite"
 msgstr ""
 
 #: components/modal/modals/DeleteMessage.tsx:26
-#: components/app/menus/MessageContextMenu.tsx:244
+#: components/app/menus/MessageContextMenu.tsx:249
 #: components/app/menus/DraftMessageContextMenu.tsx:63
 msgid "Delete message"
 msgstr "D3L373 M355463"
@@ -1280,7 +1285,7 @@ msgstr "F213ND5"
 msgid "Fruit Salad"
 msgstr ""
 
-#: components/app/interface/settings/user/bots/ViewBot.tsx:42
+#: components/app/interface/settings/user/bots/ViewBot.tsx:43
 msgid "Generate a new token if it gets lost or compromised"
 msgstr ""
 
@@ -1426,7 +1431,7 @@ msgstr "1NV1518L3"
 msgid "Invite all of your friends, some cool bots, and throw a big party."
 msgstr "1NV173 4LL 0F Y0U2 F213ND5, 50M3 C00L 8075, 4ND 7H20W 4 816 P427Y."
 
-#: components/app/interface/settings/user/bots/ViewBot.tsx:73
+#: components/app/interface/settings/user/bots/ViewBot.tsx:75
 msgid "Invite Bot"
 msgstr ""
 
@@ -1999,7 +2004,7 @@ msgstr "P32M15510N5"
 msgid "Pick a username that you want people to be able to find you by. This can be changed later in your user settings."
 msgstr "P1CK 4 U532N4M3 7H47 Y0U W4N7 P30PL3 70 83 48L3 70 F1ND Y0U 8Y. 7H15 C4N 83 CH4N63D L4732 1N Y0U2 U532 53771N65."
 
-#: components/app/menus/MessageContextMenu.tsx:190
+#: components/app/menus/MessageContextMenu.tsx:195
 msgid "Pin message"
 msgstr ""
 
@@ -2130,7 +2135,7 @@ msgstr "23J3C7 F213ND 23QU357"
 msgid "Relevance"
 msgstr "23L3V4NC3"
 
-#: components/app/menus/MessageContextMenu.tsx:230
+#: components/app/menus/MessageContextMenu.tsx:235
 msgid "Remove all reactions"
 msgstr ""
 
@@ -2150,7 +2155,7 @@ msgstr "23M0V3 F213ND"
 msgid "Remove other members' avatars"
 msgstr ""
 
-#: components/app/menus/MessageContextMenu.tsx:207
+#: components/app/menus/MessageContextMenu.tsx:212
 msgid "Remove reaction"
 msgstr ""
 
@@ -2181,7 +2186,7 @@ msgstr "23PLY1N6 70"
 msgid "Report"
 msgstr "23P027"
 
-#: components/app/menus/MessageContextMenu.tsx:249
+#: components/app/menus/MessageContextMenu.tsx:254
 msgid "Report message"
 msgstr "23P027 M355463"
 
@@ -2203,11 +2208,17 @@ msgid "Resend verification"
 msgstr "2353ND V321F1C4710N"
 
 #: components/ui/components/utils/Form2.tsx:321
+#: components/modal/modals/ResetBotToken.tsx:29
 #: components/modal/modals/MFARecovery.tsx:64
 #: components/auth/src/flows/FlowReset.tsx:44
 #: components/auth/src/flows/FlowConfirmReset.tsx:43
 msgid "Reset"
 msgstr "23537"
+
+#. placeholder {0}: props.bot.user!.username
+#: components/modal/modals/ResetBotToken.tsx:25
+msgid "Reset {0}'s token?"
+msgstr ""
 
 #: components/auth/src/flows/FlowReset.tsx:39
 #: components/auth/src/flows/FlowLogin.tsx:65
@@ -2219,7 +2230,7 @@ msgstr "23537 P455W02D"
 msgid "Reset Recovery Codes"
 msgstr ""
 
-#: components/app/interface/settings/user/bots/ViewBot.tsx:47
+#: components/app/interface/settings/user/bots/ViewBot.tsx:49
 msgid "Reset Token"
 msgstr "23537 70K3N"
 
@@ -2525,7 +2536,7 @@ msgstr "5U8M17 F347U23 5U6635710N"
 msgid "Submit feedback"
 msgstr "5U8M17 F33D84CK"
 
-#: components/app/interface/settings/user/bots/ViewBot.tsx:58
+#: components/app/interface/settings/user/bots/ViewBot.tsx:60
 msgid "Submit to Discover"
 msgstr ""
 
@@ -2675,6 +2686,10 @@ msgstr ""
 msgid "This username is not allowed."
 msgstr ""
 
+#: components/modal/modals/ResetBotToken.tsx:34
+msgid "This will invalidate the current token and stop any existing instances of the bot from running."
+msgstr ""
+
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsEditor.tsx:193
 msgid "Timeout Members"
 msgstr "71M30U7 M3M8325"
@@ -2724,7 +2739,7 @@ msgstr ""
 msgid "Unmute Server"
 msgstr ""
 
-#: components/app/menus/MessageContextMenu.tsx:192
+#: components/app/menus/MessageContextMenu.tsx:197
 msgid "Unpin message"
 msgstr ""
 
