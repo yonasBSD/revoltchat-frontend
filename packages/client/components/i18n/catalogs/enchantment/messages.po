@@ -310,7 +310,7 @@ msgstr ""
 msgid "Admin Panel"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:281
+#: components/app/interface/settings/UserSettings.tsx:277
 msgid "Advanced"
 msgstr "ᔑ↸⍊ᔑリᓵᒷ↸"
 
@@ -355,7 +355,7 @@ msgstr ""
 msgid "An internal error occurred. ({0})"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:219
+#: components/app/interface/settings/UserSettings.tsx:215
 #: components/app/interface/settings/user/Sync.tsx:34
 msgid "Appearance"
 msgstr "ᔑ!¡!¡ᒷᔑ∷ᔑリᓵᒷ"
@@ -630,7 +630,7 @@ msgstr ""
 msgid "Click to show spoiler"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:202
+#: components/app/interface/settings/UserSettings.tsx:198
 msgid "Client Settings"
 msgstr "ᓵꖎ╎ᒷリℸ ᓭᒷℸℸ╎リ⊣ᓭ"
 
@@ -1008,7 +1008,7 @@ msgstr ""
 msgid "Description provided by {0}"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:256
+#: components/app/interface/settings/UserSettings.tsx:252
 msgid "Desktop"
 msgstr ""
 
@@ -1065,6 +1065,10 @@ msgstr ""
 
 #: components/modal/modals/LeaveServer.tsx:60
 msgid "Don't notify others that you've left"
+msgstr ""
+
+#: components/app/interface/settings/UserSettings.tsx:282
+msgid "Donate"
 msgstr ""
 
 #: src/interface/Home.tsx:192
@@ -1231,7 +1235,7 @@ msgstr ""
 msgid "Failed to verify!"
 msgstr "⎓ᔑ╎ꖎᒷ↸ ℸ𝙹 ⍊ᒷ∷╎⎓||!"
 
-#: components/app/interface/settings/UserSettings.tsx:181
+#: components/app/interface/settings/UserSettings.tsx:182
 #: components/app/interface/settings/user/Feedback.tsx:75
 msgid "Feedback"
 msgstr "⎓ᒷᒷ↸ʖᔑᓵꖌ"
@@ -1523,7 +1527,7 @@ msgstr ""
 msgid "Kick Members"
 msgstr "ꖌ╎ᓵꖌ ᒲᒷᒲʖᒷ∷ᓭ"
 
-#: components/app/interface/settings/UserSettings.tsx:245
+#: components/app/interface/settings/UserSettings.tsx:241
 #: components/app/interface/settings/user/Sync.tsx:52
 msgid "Language"
 msgstr "ꖎᔑリ⊣⚍ᔑ⊣ᒷ"
@@ -1589,7 +1593,7 @@ msgstr ""
 msgid "Log In"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:290
+#: components/app/interface/settings/UserSettings.tsx:291
 #: components/app/interface/settings/user/Sessions.tsx:168
 msgid "Log Out"
 msgstr "ꖎ𝙹⊣ 𝙹⚍ℸ"
@@ -1820,7 +1824,7 @@ msgstr "ᒲ⚍ℸ⚍ᔑꖎ ⊣∷𝙹⚍!¡ᓭ"
 msgid "My Account"
 msgstr "ᒲ|| ᔑᓵᓵ𝙹⚍リℸ"
 
-#: components/app/interface/settings/UserSettings.tsx:176
+#: components/app/interface/settings/UserSettings.tsx:177
 msgid "My Bots"
 msgstr "ᒲ|| ʖ𝙹ℸᓭ"
 
@@ -2048,7 +2052,7 @@ msgstr "!¡∷╎⍊ᔑᓵ|| !¡𝙹ꖎ╎ᓵ||"
 msgid "Private Channel"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:161
+#: components/app/interface/settings/UserSettings.tsx:162
 msgid "Profile"
 msgstr "!¡∷𝙹⎓╎ꖎᒷ"
 
@@ -2410,7 +2414,7 @@ msgstr "ᓭᒷ∷⍊ᒷ∷ リᔑᒲᒷ"
 msgid "Server Roles"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:166
+#: components/app/interface/settings/UserSettings.tsx:167
 msgid "Sessions"
 msgstr "ᓭᒷᓭᓭ╎𝙹リᓭ"
 
@@ -2480,7 +2484,7 @@ msgstr ""
 msgid "Sounds"
 msgstr "ᓭ𝙹⚍リ↸ᓭ"
 
-#: components/app/interface/settings/UserSettings.tsx:276
+#: components/app/interface/settings/UserSettings.tsx:272
 msgid "Source Code"
 msgstr "ᓭ𝙹⚍∷ᓵᒷ ᓵ𝙹↸ᒷ"
 
@@ -2540,7 +2544,7 @@ msgstr "ᓭ⚍ʖᒲ╎ℸ ⎓ᒷᒷ↸ʖᔑᓵꖌ"
 msgid "Submit to Discover"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:191
+#: components/app/interface/settings/UserSettings.tsx:187
 msgid "Subscriptions"
 msgstr ""
 
@@ -2805,7 +2809,7 @@ msgstr "⚍ᓭᒷ∷ ꖎᒷ⎓ℸ ᓵᔑꖎꖎ"
 msgid "User Management"
 msgstr "⚍ᓭᒷ∷ ᒲᔑリᔑ⊣ᒷᒲᒷリℸ"
 
-#: components/app/interface/settings/UserSettings.tsx:150
+#: components/app/interface/settings/UserSettings.tsx:151
 msgid "User Settings"
 msgstr "⚍ᓭᒷ∷ ᓭᒷℸℸ╎リ⊣ᓭ"
 
@@ -2854,7 +2858,7 @@ msgstr ""
 msgid "Verifying your account…"
 msgstr "⍊ᒷ∷╎⎓||╎リ⊣ ||𝙹⚍∷ ᔑᓵᓵ𝙹⚍リℸ…"
 
-#: components/app/interface/settings/UserSettings.tsx:122
+#: components/app/interface/settings/UserSettings.tsx:123
 #: components/app/interface/settings/user/Native.tsx:151
 msgid "Version:"
 msgstr ""
@@ -2891,7 +2895,7 @@ msgstr "⍊╎ᒷ∴ ∷ᒷᓵ𝙹⍊ᒷ∷|| ᓵ𝙹↸ᒷᓭ"
 msgid "Viewing older messages"
 msgstr "⍊╎ᒷ∴╎リ⊣ 𝙹ꖎ↸ᒷ∷ ᒲᒷᓭᓭᔑ⊣ᒷᓭ"
 
-#: components/app/interface/settings/UserSettings.tsx:214
+#: components/app/interface/settings/UserSettings.tsx:210
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsEditor.tsx:330
 msgid "Voice"
 msgstr ""

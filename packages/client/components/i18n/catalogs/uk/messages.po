@@ -310,7 +310,7 @@ msgstr ""
 msgid "Admin Panel"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:281
+#: components/app/interface/settings/UserSettings.tsx:277
 msgid "Advanced"
 msgstr "Розширені"
 
@@ -355,7 +355,7 @@ msgstr ""
 msgid "An internal error occurred. ({0})"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:219
+#: components/app/interface/settings/UserSettings.tsx:215
 #: components/app/interface/settings/user/Sync.tsx:34
 msgid "Appearance"
 msgstr "Вигляд"
@@ -630,7 +630,7 @@ msgstr ""
 msgid "Click to show spoiler"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:202
+#: components/app/interface/settings/UserSettings.tsx:198
 msgid "Client Settings"
 msgstr "Налаштування клієнта"
 
@@ -1008,7 +1008,7 @@ msgstr ""
 msgid "Description provided by {0}"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:256
+#: components/app/interface/settings/UserSettings.tsx:252
 msgid "Desktop"
 msgstr ""
 
@@ -1065,6 +1065,10 @@ msgstr ""
 
 #: components/modal/modals/LeaveServer.tsx:60
 msgid "Don't notify others that you've left"
+msgstr ""
+
+#: components/app/interface/settings/UserSettings.tsx:282
+msgid "Donate"
 msgstr ""
 
 #: src/interface/Home.tsx:192
@@ -1231,7 +1235,7 @@ msgstr ""
 msgid "Failed to verify!"
 msgstr "Не вдалося перевірити!"
 
-#: components/app/interface/settings/UserSettings.tsx:181
+#: components/app/interface/settings/UserSettings.tsx:182
 #: components/app/interface/settings/user/Feedback.tsx:75
 msgid "Feedback"
 msgstr "Зворотній зв'язок"
@@ -1523,7 +1527,7 @@ msgstr ""
 msgid "Kick Members"
 msgstr "Виганяти учасників"
 
-#: components/app/interface/settings/UserSettings.tsx:245
+#: components/app/interface/settings/UserSettings.tsx:241
 #: components/app/interface/settings/user/Sync.tsx:52
 msgid "Language"
 msgstr "Мова"
@@ -1589,7 +1593,7 @@ msgstr ""
 msgid "Log In"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:290
+#: components/app/interface/settings/UserSettings.tsx:291
 #: components/app/interface/settings/user/Sessions.tsx:168
 msgid "Log Out"
 msgstr "Вийти"
@@ -1820,7 +1824,7 @@ msgstr "Спільні групи"
 msgid "My Account"
 msgstr "Мій акаунт"
 
-#: components/app/interface/settings/UserSettings.tsx:176
+#: components/app/interface/settings/UserSettings.tsx:177
 msgid "My Bots"
 msgstr "Мої боти"
 
@@ -2048,7 +2052,7 @@ msgstr "Політика конфіденційності"
 msgid "Private Channel"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:161
+#: components/app/interface/settings/UserSettings.tsx:162
 msgid "Profile"
 msgstr "Профіль"
 
@@ -2410,7 +2414,7 @@ msgstr "Назва сервера"
 msgid "Server Roles"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:166
+#: components/app/interface/settings/UserSettings.tsx:167
 msgid "Sessions"
 msgstr "Сесії"
 
@@ -2480,7 +2484,7 @@ msgstr ""
 msgid "Sounds"
 msgstr "Звуки"
 
-#: components/app/interface/settings/UserSettings.tsx:276
+#: components/app/interface/settings/UserSettings.tsx:272
 msgid "Source Code"
 msgstr "Вихідний код"
 
@@ -2540,7 +2544,7 @@ msgstr "Надіслати відгук"
 msgid "Submit to Discover"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:191
+#: components/app/interface/settings/UserSettings.tsx:187
 msgid "Subscriptions"
 msgstr ""
 
@@ -2805,7 +2809,7 @@ msgstr "Користувач залишив виклик"
 msgid "User Management"
 msgstr "Керування користувачами"
 
-#: components/app/interface/settings/UserSettings.tsx:150
+#: components/app/interface/settings/UserSettings.tsx:151
 msgid "User Settings"
 msgstr "Налаштування користувача"
 
@@ -2854,7 +2858,7 @@ msgstr ""
 msgid "Verifying your account…"
 msgstr "Перевірка вашого акаунту…"
 
-#: components/app/interface/settings/UserSettings.tsx:122
+#: components/app/interface/settings/UserSettings.tsx:123
 #: components/app/interface/settings/user/Native.tsx:151
 msgid "Version:"
 msgstr ""
@@ -2891,7 +2895,7 @@ msgstr "Переглянути коди відновлення"
 msgid "Viewing older messages"
 msgstr "Перегляд старих повідомлень"
 
-#: components/app/interface/settings/UserSettings.tsx:214
+#: components/app/interface/settings/UserSettings.tsx:210
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsEditor.tsx:330
 msgid "Voice"
 msgstr ""

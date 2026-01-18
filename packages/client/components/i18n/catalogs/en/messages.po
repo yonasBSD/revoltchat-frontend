@@ -310,7 +310,7 @@ msgstr "Admin"
 msgid "Admin Panel"
 msgstr "Admin Panel"
 
-#: components/app/interface/settings/UserSettings.tsx:281
+#: components/app/interface/settings/UserSettings.tsx:277
 msgid "Advanced"
 msgstr "Advanced"
 
@@ -355,7 +355,7 @@ msgstr "An error occurred."
 msgid "An internal error occurred. ({0})"
 msgstr "An internal error occurred. ({0})"
 
-#: components/app/interface/settings/UserSettings.tsx:219
+#: components/app/interface/settings/UserSettings.tsx:215
 #: components/app/interface/settings/user/Sync.tsx:34
 msgid "Appearance"
 msgstr "Appearance"
@@ -630,7 +630,7 @@ msgstr "Click to show full description"
 msgid "Click to show spoiler"
 msgstr "Click to show spoiler"
 
-#: components/app/interface/settings/UserSettings.tsx:202
+#: components/app/interface/settings/UserSettings.tsx:198
 msgid "Client Settings"
 msgstr "Client Settings"
 
@@ -1008,7 +1008,7 @@ msgstr "Delete Server"
 msgid "Description provided by {0}"
 msgstr "Description provided by {0}"
 
-#: components/app/interface/settings/UserSettings.tsx:256
+#: components/app/interface/settings/UserSettings.tsx:252
 msgid "Desktop"
 msgstr "Desktop"
 
@@ -1066,6 +1066,10 @@ msgstr "Don't ask me again for "
 #: components/modal/modals/LeaveServer.tsx:60
 msgid "Don't notify others that you've left"
 msgstr "Don't notify others that you've left"
+
+#: components/app/interface/settings/UserSettings.tsx:282
+msgid "Donate"
+msgstr "Donate"
 
 #: src/interface/Home.tsx:192
 msgid "Donate to Stoat"
@@ -1231,7 +1235,7 @@ msgstr "Failed to send"
 msgid "Failed to verify!"
 msgstr "Failed to verify!"
 
-#: components/app/interface/settings/UserSettings.tsx:181
+#: components/app/interface/settings/UserSettings.tsx:182
 #: components/app/interface/settings/user/Feedback.tsx:75
 msgid "Feedback"
 msgstr "Feedback"
@@ -1523,7 +1527,7 @@ msgstr "Kick Member"
 msgid "Kick Members"
 msgstr "Kick Members"
 
-#: components/app/interface/settings/UserSettings.tsx:245
+#: components/app/interface/settings/UserSettings.tsx:241
 #: components/app/interface/settings/user/Sync.tsx:52
 msgid "Language"
 msgstr "Language"
@@ -1589,7 +1593,7 @@ msgstr "Load file ({0})"
 msgid "Log In"
 msgstr "Log In"
 
-#: components/app/interface/settings/UserSettings.tsx:290
+#: components/app/interface/settings/UserSettings.tsx:291
 #: components/app/interface/settings/user/Sessions.tsx:168
 msgid "Log Out"
 msgstr "Log Out"
@@ -1820,7 +1824,7 @@ msgstr "Mutual Groups"
 msgid "My Account"
 msgstr "My Account"
 
-#: components/app/interface/settings/UserSettings.tsx:176
+#: components/app/interface/settings/UserSettings.tsx:177
 msgid "My Bots"
 msgstr "My Bots"
 
@@ -2048,7 +2052,7 @@ msgstr "Privacy Policy"
 msgid "Private Channel"
 msgstr "Private Channel"
 
-#: components/app/interface/settings/UserSettings.tsx:161
+#: components/app/interface/settings/UserSettings.tsx:162
 msgid "Profile"
 msgstr "Profile"
 
@@ -2410,7 +2414,7 @@ msgstr "Server Name"
 msgid "Server Roles"
 msgstr "Server Roles"
 
-#: components/app/interface/settings/UserSettings.tsx:166
+#: components/app/interface/settings/UserSettings.tsx:167
 msgid "Sessions"
 msgstr "Sessions"
 
@@ -2480,7 +2484,7 @@ msgstr "Something went wrong! Try again later."
 msgid "Sounds"
 msgstr "Sounds"
 
-#: components/app/interface/settings/UserSettings.tsx:276
+#: components/app/interface/settings/UserSettings.tsx:272
 msgid "Source Code"
 msgstr "Source Code"
 
@@ -2540,7 +2544,7 @@ msgstr "Submit feedback"
 msgid "Submit to Discover"
 msgstr "Submit to Discover"
 
-#: components/app/interface/settings/UserSettings.tsx:191
+#: components/app/interface/settings/UserSettings.tsx:187
 msgid "Subscriptions"
 msgstr "Subscriptions"
 
@@ -2805,7 +2809,7 @@ msgstr "User Left Call"
 msgid "User Management"
 msgstr "User Management"
 
-#: components/app/interface/settings/UserSettings.tsx:150
+#: components/app/interface/settings/UserSettings.tsx:151
 msgid "User Settings"
 msgstr "User Settings"
 
@@ -2854,7 +2858,7 @@ msgstr "Verified"
 msgid "Verifying your account…"
 msgstr "Verifying your account…"
 
-#: components/app/interface/settings/UserSettings.tsx:122
+#: components/app/interface/settings/UserSettings.tsx:123
 #: components/app/interface/settings/user/Native.tsx:151
 msgid "Version:"
 msgstr "Version:"
@@ -2891,7 +2895,7 @@ msgstr "View Recovery Codes"
 msgid "Viewing older messages"
 msgstr "Viewing older messages"
 
-#: components/app/interface/settings/UserSettings.tsx:214
+#: components/app/interface/settings/UserSettings.tsx:210
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsEditor.tsx:330
 msgid "Voice"
 msgstr "Voice"

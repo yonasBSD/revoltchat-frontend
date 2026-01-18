@@ -310,7 +310,7 @@ msgstr ""
 msgid "Admin Panel"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:281
+#: components/app/interface/settings/UserSettings.tsx:277
 msgid "Advanced"
 msgstr ""
 
@@ -355,7 +355,7 @@ msgstr ""
 msgid "An internal error occurred. ({0})"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:219
+#: components/app/interface/settings/UserSettings.tsx:215
 #: components/app/interface/settings/user/Sync.tsx:34
 msgid "Appearance"
 msgstr "दिखावट"
@@ -630,7 +630,7 @@ msgstr ""
 msgid "Click to show spoiler"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:202
+#: components/app/interface/settings/UserSettings.tsx:198
 msgid "Client Settings"
 msgstr "ग्राहक सेटिंग्स"
 
@@ -1008,7 +1008,7 @@ msgstr ""
 msgid "Description provided by {0}"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:256
+#: components/app/interface/settings/UserSettings.tsx:252
 msgid "Desktop"
 msgstr ""
 
@@ -1065,6 +1065,10 @@ msgstr ""
 
 #: components/modal/modals/LeaveServer.tsx:60
 msgid "Don't notify others that you've left"
+msgstr ""
+
+#: components/app/interface/settings/UserSettings.tsx:282
+msgid "Donate"
 msgstr ""
 
 #: src/interface/Home.tsx:192
@@ -1231,7 +1235,7 @@ msgstr ""
 msgid "Failed to verify!"
 msgstr "सत्यापित करने में विफल हुआ!"
 
-#: components/app/interface/settings/UserSettings.tsx:181
+#: components/app/interface/settings/UserSettings.tsx:182
 #: components/app/interface/settings/user/Feedback.tsx:75
 msgid "Feedback"
 msgstr "प्रतिपुष्टि"
@@ -1523,7 +1527,7 @@ msgstr ""
 msgid "Kick Members"
 msgstr "किक सदस्य"
 
-#: components/app/interface/settings/UserSettings.tsx:245
+#: components/app/interface/settings/UserSettings.tsx:241
 #: components/app/interface/settings/user/Sync.tsx:52
 msgid "Language"
 msgstr "भाषा"
@@ -1589,7 +1593,7 @@ msgstr ""
 msgid "Log In"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:290
+#: components/app/interface/settings/UserSettings.tsx:291
 #: components/app/interface/settings/user/Sessions.tsx:168
 msgid "Log Out"
 msgstr "लॉग आउट"
@@ -1820,7 +1824,7 @@ msgstr "परस्पर समूह"
 msgid "My Account"
 msgstr "मेरा खाता"
 
-#: components/app/interface/settings/UserSettings.tsx:176
+#: components/app/interface/settings/UserSettings.tsx:177
 msgid "My Bots"
 msgstr "मेरे बॉट्स"
 
@@ -2048,7 +2052,7 @@ msgstr "गोपनीयता नीति"
 msgid "Private Channel"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:161
+#: components/app/interface/settings/UserSettings.tsx:162
 msgid "Profile"
 msgstr "प्रोफ़ाइल"
 
@@ -2410,7 +2414,7 @@ msgstr "सर्वर का नाम"
 msgid "Server Roles"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:166
+#: components/app/interface/settings/UserSettings.tsx:167
 msgid "Sessions"
 msgstr "सत्र"
 
@@ -2480,7 +2484,7 @@ msgstr ""
 msgid "Sounds"
 msgstr "ध्वनि"
 
-#: components/app/interface/settings/UserSettings.tsx:276
+#: components/app/interface/settings/UserSettings.tsx:272
 msgid "Source Code"
 msgstr "सोर्स कोड"
 
@@ -2540,7 +2544,7 @@ msgstr "प्रतिपुष्टि दें"
 msgid "Submit to Discover"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:191
+#: components/app/interface/settings/UserSettings.tsx:187
 msgid "Subscriptions"
 msgstr ""
 
@@ -2805,7 +2809,7 @@ msgstr "उपयोगकर्ता वाम कॉल"
 msgid "User Management"
 msgstr "उपयोगकर्ता प्रबंधन"
 
-#: components/app/interface/settings/UserSettings.tsx:150
+#: components/app/interface/settings/UserSettings.tsx:151
 msgid "User Settings"
 msgstr "उपयोगकर्ता सेटिंग"
 
@@ -2854,7 +2858,7 @@ msgstr ""
 msgid "Verifying your account…"
 msgstr "खाते का सत्यापन जारी है…"
 
-#: components/app/interface/settings/UserSettings.tsx:122
+#: components/app/interface/settings/UserSettings.tsx:123
 #: components/app/interface/settings/user/Native.tsx:151
 msgid "Version:"
 msgstr ""
@@ -2891,7 +2895,7 @@ msgstr "पुनर्प्राप्ति कोड देखें"
 msgid "Viewing older messages"
 msgstr "पुराने संदेश देखना"
 
-#: components/app/interface/settings/UserSettings.tsx:214
+#: components/app/interface/settings/UserSettings.tsx:210
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsEditor.tsx:330
 msgid "Voice"
 msgstr ""

@@ -310,7 +310,7 @@ msgstr ""
 msgid "Admin Panel"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:281
+#: components/app/interface/settings/UserSettings.tsx:277
 msgid "Advanced"
 msgstr "Avansert"
 
@@ -355,7 +355,7 @@ msgstr ""
 msgid "An internal error occurred. ({0})"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:219
+#: components/app/interface/settings/UserSettings.tsx:215
 #: components/app/interface/settings/user/Sync.tsx:34
 msgid "Appearance"
 msgstr "Utseende"
@@ -630,7 +630,7 @@ msgstr ""
 msgid "Click to show spoiler"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:202
+#: components/app/interface/settings/UserSettings.tsx:198
 msgid "Client Settings"
 msgstr "Klientinnstillinger"
 
@@ -1008,7 +1008,7 @@ msgstr ""
 msgid "Description provided by {0}"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:256
+#: components/app/interface/settings/UserSettings.tsx:252
 msgid "Desktop"
 msgstr ""
 
@@ -1065,6 +1065,10 @@ msgstr ""
 
 #: components/modal/modals/LeaveServer.tsx:60
 msgid "Don't notify others that you've left"
+msgstr ""
+
+#: components/app/interface/settings/UserSettings.tsx:282
+msgid "Donate"
 msgstr ""
 
 #: src/interface/Home.tsx:192
@@ -1231,7 +1235,7 @@ msgstr ""
 msgid "Failed to verify!"
 msgstr "Kunne ikke bekrefte!"
 
-#: components/app/interface/settings/UserSettings.tsx:181
+#: components/app/interface/settings/UserSettings.tsx:182
 #: components/app/interface/settings/user/Feedback.tsx:75
 msgid "Feedback"
 msgstr "Tilbakemelding"
@@ -1523,7 +1527,7 @@ msgstr ""
 msgid "Kick Members"
 msgstr "Kast ut medlemmer"
 
-#: components/app/interface/settings/UserSettings.tsx:245
+#: components/app/interface/settings/UserSettings.tsx:241
 #: components/app/interface/settings/user/Sync.tsx:52
 msgid "Language"
 msgstr "Språk"
@@ -1589,7 +1593,7 @@ msgstr ""
 msgid "Log In"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:290
+#: components/app/interface/settings/UserSettings.tsx:291
 #: components/app/interface/settings/user/Sessions.tsx:168
 msgid "Log Out"
 msgstr "Logg ut"
@@ -1820,7 +1824,7 @@ msgstr "Felles Grupper"
 msgid "My Account"
 msgstr "Min konto"
 
-#: components/app/interface/settings/UserSettings.tsx:176
+#: components/app/interface/settings/UserSettings.tsx:177
 msgid "My Bots"
 msgstr "Mine Roboter"
 
@@ -2048,7 +2052,7 @@ msgstr "Personvern"
 msgid "Private Channel"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:161
+#: components/app/interface/settings/UserSettings.tsx:162
 msgid "Profile"
 msgstr "Profil"
 
@@ -2410,7 +2414,7 @@ msgstr "Servernavn"
 msgid "Server Roles"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:166
+#: components/app/interface/settings/UserSettings.tsx:167
 msgid "Sessions"
 msgstr "Økter"
 
@@ -2480,7 +2484,7 @@ msgstr ""
 msgid "Sounds"
 msgstr "Lyder"
 
-#: components/app/interface/settings/UserSettings.tsx:276
+#: components/app/interface/settings/UserSettings.tsx:272
 msgid "Source Code"
 msgstr "Kildekode"
 
@@ -2540,7 +2544,7 @@ msgstr "Send tilbakemelding"
 msgid "Submit to Discover"
 msgstr ""
 
-#: components/app/interface/settings/UserSettings.tsx:191
+#: components/app/interface/settings/UserSettings.tsx:187
 msgid "Subscriptions"
 msgstr ""
 
@@ -2805,7 +2809,7 @@ msgstr "Bruker Forlot Samtalen"
 msgid "User Management"
 msgstr "Bruker administrering"
 
-#: components/app/interface/settings/UserSettings.tsx:150
+#: components/app/interface/settings/UserSettings.tsx:151
 msgid "User Settings"
 msgstr "Brukerinnstillinger"
 
@@ -2854,7 +2858,7 @@ msgstr ""
 msgid "Verifying your account…"
 msgstr "Bekrefter kontoen din…"
 
-#: components/app/interface/settings/UserSettings.tsx:122
+#: components/app/interface/settings/UserSettings.tsx:123
 #: components/app/interface/settings/user/Native.tsx:151
 msgid "Version:"
 msgstr ""
@@ -2891,7 +2895,7 @@ msgstr "Vis Gjenopprettingskoder"
 msgid "Viewing older messages"
 msgstr "Viser eldre meldinger"
 
-#: components/app/interface/settings/UserSettings.tsx:214
+#: components/app/interface/settings/UserSettings.tsx:210
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsEditor.tsx:330
 msgid "Voice"
 msgstr ""
